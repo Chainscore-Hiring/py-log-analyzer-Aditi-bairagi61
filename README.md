@@ -56,6 +56,12 @@ The **Log Analyzer System** is designed to process and analyze log files efficie
    ```
 
 ---
+## System Architecture
+
+The following diagram illustrates the system architecture of the Log Analyzer:
+
+![System Architecture](architecture.jpg)
+
 
 ## **System Design**
 
