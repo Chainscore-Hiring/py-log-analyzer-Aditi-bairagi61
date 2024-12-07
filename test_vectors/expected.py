@@ -1,3 +1,4 @@
+###EXPECTED_METRICS
 EXPECTED_METRICS = {
     "normal.log": {
         "avg_response_time": 109.0,  # ms
@@ -22,6 +23,6 @@ EXPECTED_METRICS = {
         "error_rate": 0.0,
         "requests_per_second": 33.33,
         "total_requests": 200,
-        "malformed_lines": 30
+        "malformed_lines": 30  # Count of malformed log lines
     }
 }
